@@ -1,5 +1,14 @@
-# 💫 About Me
+<div align="center">
 
+# Hi, I'm Joseph Yarijarla 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4EC9B0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Agentic+AI+Engineer;Building+Systems+That+Ship;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+# 💫 About Me
 CS graduate from the University of Houston. I build full-stack applications and agentic AI systems — most recently an LLM-powered developer productivity platform with a 7-stage autonomous pipeline. Passionate about building tools that make engineers more effective.
 
 ## 🌐 Socials
